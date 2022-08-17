@@ -1,0 +1,87 @@
+body{
+	background-color:black;
+}
+#aa{
+	background-color:black;
+	position:fixed;
+	top:0;
+	left:0;
+	height:55px;
+	width:1400px;
+	z-index:1;
+}
+#a{
+	background-image:url("../img/nlogo.jpg");
+	width:177px;
+	height:55px;
+	background-size:cover;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:1;
+	
+}
+#p1{
+	color:white;
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:200px;
+	z-index:1;
+}
+#p2{
+	color:white;
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:280px;
+	z-index:1;
+}
+#p3{
+	color:white;
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:400px;
+	z-index:1;
+}
+#p4{
+	color:white;
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:500px;
+	z-index:1;
+}
+#p5{
+	color:white;
+	font-size:20px;
+	position:fixed;
+	top:0px;
+	left:650px;
+	z-index:1;
+}
+#lupa{
+	position:fixed;
+	top:10px;
+	left:1050px;
+	z-index:1;
+}
+#regalo{
+	position:fixed;
+	top:10px;
+	left:1100px;
+	z-index:1;
+}
+#campana{
+	position:fixed;
+	top:10px;
+	left:1160px;
+	z-index:1;
+}
+#user{
+	position:fixed;
+	top:10px;
+	left:1210px;
+	z-index:1;
+}
