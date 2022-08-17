@@ -1,13 +1,13 @@
-;
+
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'cache MOVIES',
-  urlsToCache = [
-    './',
-    './index.html',
-    './css/',
-    './script.js',
-    './img/favicon.ico'
-  ];
+const CACHE_NAME = 'static-cache-v9';
+urlsToCache = [
+  './',
+  './css/',
+  './script.js',
+  './img/favicon.ico',
+  './index.html',
+];
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
 self.addEventListener('install', e => {
