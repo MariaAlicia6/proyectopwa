@@ -1,17 +1,17 @@
 {
-    "name": "App Movies",
+    "name": "AppMovies",
     "lang": "es-MX",
-    "short_name": "App Movies",
-    "description": "Proyecto de aplicacion web progresiva",
+    "short_name": "AppMovies",
+    "description": "Aplicacion de ejemplo PWA",
     "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "display": "standalone",
     "theme_color": "#2f3d58",
     "background_color": "#2f3d58",
     "orientation": "any",
-    "icons": [
+ "icons": [
   {
-   "src": "./img/android-icon-32x32.png",
+   "src": "./img/android-icon-36x36.png",
    "sizes": "36x36",
    "type": "image\/png",
    "density": "0.75"
@@ -28,5 +28,6 @@
    "type": "image\/png",
    "density": "3.0"
   }
+  
  ]
 }
