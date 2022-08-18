@@ -1,7 +1,7 @@
-;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'cache?MOVIES?v9',
+const CACHE_NAME = 'static_cache_v1';
   urlsToCache = [
+    './',
     './index.html',
     './css/',
     './script.js',
