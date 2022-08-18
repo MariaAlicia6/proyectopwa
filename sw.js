@@ -1,11 +1,12 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'cache MOVIES',
+const CACHE_NAME = 'cache?MOVIES?v9',
   urlsToCache = [
     './index.html',
     './css/',
     './script.js',
-    './img/favicon.ico'
+    './img/favicon.ico',
+    
   ];
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
